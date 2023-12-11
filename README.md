@@ -4,12 +4,6 @@ The Week-1 homework assignment
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
 This project was completed as the Module-1 homework assignment. There were atl comments that needed to be added, as well as a title and optimizing the CSS page as much as possible. I learned how to follow a structed code and use my knowledge to merge certain headers together to create a code that is easier to read.
 
 
