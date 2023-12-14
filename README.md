@@ -11,7 +11,7 @@ This project was created to explain online optimization as well as some of the s
 N/A
 
 ## Usage
-[Challenge-1URL]()
+[Challenge-1URL](https://aejantz2015.github.io/challenge-1/)
 
 ![Screenshot](assets/images/screenshot-1.png)
 
