@@ -11,16 +11,13 @@ This project was created to explain online optimization as well as some of the s
 N/A
 
 ## Usage
-<a href="http://127.0.0.1:5500/index.html">
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
+[Challenge-1URL]()
 
 ![Screenshot](assets/images/screenshot-1.png)
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
+N/A
 
 ## License
 
